@@ -2,3 +2,5 @@
 Starting
 Well here we go
 It's kind of pathetic
+
+I'm awful
